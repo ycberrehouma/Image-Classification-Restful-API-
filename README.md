@@ -12,6 +12,6 @@
 - Using bcrypt to encrypt passwords <br>
  <br>
 <h4>The restful apis are (All POST):</h4>
-/registe/r{username}/{password} (To register a user) <br>
+/register/{username}/{password} (To register a user) <br>
 /classify/{username}/{password}/{image-url} <br>
 /refill/{user-username}/{admin-password}/{number-of-token} <br>
