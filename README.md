@@ -1,7 +1,7 @@
 # Image Classification Restful API
 
 <h2>Restful API for similarity check using natural language processing</h2>
-{The application includes Docker and written in Python}<br>
+{The application includes Docker and written in Python}<br><br>
 
 - Each user can register and create an accout <br>
 - All Data information is storred in MongoDB <br>
