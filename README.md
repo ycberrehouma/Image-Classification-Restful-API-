@@ -14,4 +14,4 @@
 <h4>The restful apis are (All POST):</h4>
 /register/{username}/{password} (To register a user) <br>
 /classify/{username}/{password}/{image-url} <br>
-/refill/{user-username}/{admin-password}/{number-of-token} <br>
+/refill/{user-username}/{admin-password}/{number-of-token} <br><br>
