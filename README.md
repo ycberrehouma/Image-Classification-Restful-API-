@@ -10,7 +10,7 @@
 - Only Admin is allowed to add tokens to users <br>
 - Using TernserFlow (Import frmo NumPy) to classify images <br>
 - Using bcrypt to encrypt passwords <br>
- <br>
+ <br><br>
 <h4>The restful apis are (All POST):</h4>
 /register/{username}/{password} (To register a user) <br>
 /classify/{username}/{password}/{image-url} <br>
